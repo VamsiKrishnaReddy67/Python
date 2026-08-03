@@ -1,0 +1,12 @@
+Student_name="vamsi"
+Student_roll=67
+branch="CSM"
+college="SRKIT"
+CGPA=8.5
+is_placed=True
+print(Student_name)
+print(Student_roll)
+print(branch)
+print(college)
+print(CGPA)
+print(is_placed)
