@@ -46,5 +46,6 @@ class person:
 class employee(person):
     def show1(self):
         print("i am an Employee")
+        print("i am a Person ")
 e=employee()
 e.show1()
