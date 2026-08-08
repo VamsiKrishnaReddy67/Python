@@ -1,5 +1,3 @@
-m=7
-i=1
-while i<=10:
-    print(m,"x",i,"=",m*i)
-    i=i+1
+import math
+from math import main
+print(math.sqrt(25))

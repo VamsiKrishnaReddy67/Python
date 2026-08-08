@@ -1,0 +1,4 @@
+Name:Rahul
+salary:30000
+Department:IT
+city:Hyderabad
