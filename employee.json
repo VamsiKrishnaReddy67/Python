@@ -1,0 +1,7 @@
+{
+    "employeename":"Vamsi",
+    "age":21,
+    "department":"IT",
+    "salary":30000,
+    "skills":["python","HTML","CSS"]
+}
