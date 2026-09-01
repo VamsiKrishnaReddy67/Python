@@ -117,5 +117,7 @@ while True:
 
     else:
         print("Invalid choice.")
+        
 
+        # Here use the break statement to exit the loop and terminate the program execution.
         # Here use the break statement to exit the loop and terminate the program execution.
